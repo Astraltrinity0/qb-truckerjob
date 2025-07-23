@@ -1,5 +1,5 @@
 # qb-truckerjob
-Trucker Job For QB-Core
+Trucker Job For QB-Core.
 I only changed the config (added locations)
 
 # Reference Material
